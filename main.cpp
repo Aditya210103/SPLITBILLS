@@ -1,7 +1,7 @@
 //Author:
-//Agyeya Mishra
-//Department of Civil Engineering
-//Delhi Technological University (formerly, Delhi College of Engineering)
+//Aditya Pathak
+//Department of Electronic and Communication Engineering(East)
+//Netaji Subhas University of Technology (formerly, NSIT)
 //New Delhi, India
 
 
